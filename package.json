@@ -44,7 +44,7 @@
     "test:coverage": "npm run-script nyc:coverage && codecov"
   },
   "dependencies": {
-    "react-native-streams": "^1.0.5"
+    "react-native-streams": "^1.0.7"
   },
   "devDependencies": {
     "assert-diff": "^3.0.2",
